@@ -1,7 +1,7 @@
 version_info = (0, 8, 11, 6)
 
 __version__ = version = '.'.join(map(str, version_info))
-__project__ = PROJECT = 'django-summernote'
+__project__ = PROJECT = 'django-sn'
 __author__ = AUTHOR = "django-summernote contributors"
 
 try:

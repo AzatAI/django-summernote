@@ -2,7 +2,6 @@ import sys
 from setuptools import setup, find_packages
 from django_summernote import version, PROJECT
 
-
 MODULE_NAME = 'django_summernote'
 PACKAGE_DATA = list()
 CLASSIFIERS = [
@@ -24,7 +23,7 @@ CLASSIFIERS = [
 ]
 
 setup(
-    name=azt_sn,
+    name=PROJECT,
     version=version,
     packages=find_packages(),
     include_package_data=True,
