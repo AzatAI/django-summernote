@@ -77,7 +77,7 @@ SUMMERNOTE_THEME_FILES = {
             '//stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css',
         ),
         'base_js': (
-            '//admin.alfasat.kz/static/js/jquery-3.3.1.min.js',
+            '//s3.azat.ai/public/js/jquery-3.3.1.min.js',
             '//stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js',
         ),
         'default_css': (
